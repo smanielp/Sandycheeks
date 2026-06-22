@@ -21,12 +21,48 @@ after positioning is locked. Candidate directions are parked, not chosen.
 
 ## How this repo is organized
 
+### `business/` — Strategy and market
+
 | File | What it is |
 |------|------------|
 | `concept-and-business-brief.md` | Core concept, positioning, personas, business model |
 | `market-and-competitive-landscape.md` | Market sizing logic, competitors, the real gap, what to validate |
-| `product-and-prototype-spec.md` | Engineering challenges, MVP definition, prototype spec |
 | `roadmap-and-next-steps.md` | Sequenced plan — what to do, in what order, and why |
+| `unit-economics.md` | COGS model, margin, accessory attach (stub — fill after BOM quotes) |
+
+### `design/` — Product engineering
+
+| File | What it is |
+|------|------------|
+| `system-overview.md` | The whole product: subsystems, interface points, cross-cutting constraints |
+| `power-assist-spec.md` | Motor, controller, sensing, assist modes, downhill behavior |
+| `battery-and-charging-spec.md` | Pack design, weatherproofing, charging, platform decision, safety |
+| `corrosion-and-ingress-spec.md` | IP ratings, materials, surface treatments, geometry, maintenance |
+| `handle-and-controls-ux.md` | Handle form, control placement, engagement feel, indicator UX |
+
+### `manufacturing/` — Build and partner
+
+| File | What it is |
+|------|------------|
+| `product-and-prototype-spec.md` | Engineering challenges, MVP definition, prototype spec |
+| `prototype-build-guide.md` | Step-by-step guide to building the v0 integration prototype |
+| `manufacturer-partner-brief.md` | Self-contained brief for potential manufacturing partners |
+| `bom-template.md` | Bill of materials template, organized by subsystem |
+| `test-protocol-scorecard.md` | Fillable beach test scorecard with pass/fail gates |
+| `rfq-template.md` | Request-for-quote template (stub — fill after BOM is specified) |
+
+### `brand/` — Brand and naming
+
+| File | What it is |
+|------|------------|
+| `brand-strategy.md` | Positioning, aesthetic, tone, tagline (stub — fill after discovery) |
+| `naming.md` | Name candidate parking lot and trademark search protocol |
+
+### `legal-ip/` — Intellectual property
+
+| File | What it is |
+|------|------------|
+| `ip-strategy.md` | Patent candidates, filing timing, manufacturing IP terms (stub) |
 
 ## Founder's origin story
 
