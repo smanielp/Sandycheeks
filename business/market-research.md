@@ -16,7 +16,44 @@
 | **Luxel CEC-3BB** | — | 220 lb | ~3 mi | — | Budget entry, 12-month warranty; limited published spec |
 
 ### Pricing
-Full pricing not publicly indexed for all models. Based on component specs, the premium tier (e-Beach Wagon, Big Kahuna) is estimated **$1,500–$3,000+**. Luxel / budget tier likely under $800. Pricing research pending direct site checks.
+
+| Product | Price | Notes |
+|---------|-------|-------|
+| **e-Beach Wagon Gen-2** | ~$3,500 | DTC; exact price requires site check |
+| **Electric Big Kahuna** | ~$3,500 | Listed at Tractor Supply; widely distributed |
+| **The Beach Mule** | ~$2,000 | DTC only; includes 2 batteries + charger |
+| **Sandhopper** | ~$1,500–$3,000 est. | Custom-built, configure-to-order; no single listed price |
+| **Luxel CEC-3BB** | $359 | Budget tier; includes 2 batteries, pump, cover |
+| **Generic Amazon/Walmart** | $150–$600 | Low-spec, high-volume; likely the mass market baseline |
+
+The premium tier clusters at **~$3,500** (e-Beach Wagon, Big Kahuna). A clear mid-tier gap exists between ~$2,000 (Beach Mule) and the budget generics at sub-$600. Sandhopper is configure-to-order and doesn't publish a base price.
+
+### Distribution — Where You Can Actually Buy These
+
+| Product | DTC | Physical Retail | Amazon | Specialty Online |
+|---------|-----|----------------|--------|-----------------|
+| **e-Beach Wagon** | Yes (ebeachwagon.com) | None found | No | handtrucks2go.com |
+| **Electric Big Kahuna** | Yes (kahunaoutfitters.com) | Bass Pro, Cabela's, Tractor Supply, Sportsman's Warehouse | No | TackleDirect, Zoro, FactoryPure, liquidsurfandsail.com |
+| **Beach Mule** | Yes (thebeachmule.com) | None found | No | Rental ops only |
+| **Sandhopper** | Yes (sandhopper.com) | None found | No | mysandhopper.com (East Coast), handtrucks2go.com |
+| **Luxel** | Yes (luxelcarts.com) | None found | Yes (Amazon listed) | — |
+| **Generic budget** | — | Walmart.com | Yes | — |
+
+**Big Kahuna is the only competitor with meaningful physical retail shelf presence.** Bass Pro + Cabela's + Tractor Supply gives it discovery with fishermen and outdoor shoppers who have never heard of the electric beach wagon category.
+
+All other brands are effectively DTC-only, meaning they only reach customers who already know to search for "electric beach wagon."
+
+### Discovery — Do These Show Up in Standard Beach Wagon Searches?
+
+**No.** This is a significant finding.
+
+CNN Underscored's 2026 "best beach wagons" roundup features MacSports and Business & Pleasure Co. — both manual. OuterBanks.com features the non-electric Big Kahuna. Field Magazine, Good Housekeeping-adjacent editorial content — all manual. **None of the electric competitors appear in mainstream editorial roundups for "beach wagon."**
+
+The electric beach wagon category is essentially invisible to the mainstream discovery path. A customer searching "best beach wagon" or "beach cart" in Google does not encounter any of these products. They have to already know to search "electric beach wagon" to find them.
+
+This has two implications:
+1. **Discovery is the bottleneck**, not the product — the category needs to be created in the customer's mind before they shop it.
+2. **Physical retail (like Big Kahuna's Bass Pro placement) is disproportionately valuable** — it's the only way to reach a customer who didn't know to look.
 
 ### The 1-Star Pattern
 Reported failure modes across the category, from public reviews and complaint records:
